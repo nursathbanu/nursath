@@ -1,4 +1,10 @@
 .bi-bluesky{
-    color:rgba(221, 80, 198, 0.062);
+
+    background: #3F5EFB;
+background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(245, 10, 245, 0.56) 55%);
+font-size:20px;
+color: whitesmoke;
+
 
 }
+   
